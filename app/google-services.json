@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436682941901",
+    "project_id": "arthik-8d10b",
+    "storage_bucket": "arthik-8d10b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436682941901:android:4a2636ba531e5df82c5084",
+        "android_client_info": {
+          "package_name": "com.jhainusa.arthik_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcQOa1lX0uryuWbP0fis7dFWj_IDN2K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
