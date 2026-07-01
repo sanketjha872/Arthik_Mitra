@@ -37,11 +37,11 @@ The app is bilingual by design: users pick their preferred language (English or 
 
 | Sign In | Expense Tracker | HisabAI Chatbot |
 |:---:|:---:|:---:|
-| <img src="./login (1).png" width="220"/> | <img src="./screenshots/expense-tracker.png" width="220"/> | <img src="./screenshots/chatbot.png" width="220"/> |
+| <img src="./login (1).png" width="220"/> | <img src="./expense-tracker.png" width="220"/> | <img src="./chatbot.png" width="220"/> |
 
 | Monthly Trends (Spendings) | Monthly Trends (Category Breakdown) |
 |:---:|:---:|
-| <img src="./screenshots/monthly-trends.png" width="220"/> | <img src="./screenshots/monthly-trends-compact.png" width="220"/> |
+| <img src="./monthly-trends.png" width="220"/> | <img src="./monthly-trends-compact.png" width="220"/> |
 
 ## ✨ Features
 
